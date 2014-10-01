@@ -13,7 +13,7 @@ Verbindung zur mySQL-Datenbank herstellen
 $server= "localhost 3306"
 $username= "root"
 $password= ""
-$database= "abc"
+$database= "abc"	#############################################################################
 
 ## The path will need to match the mysql connector you downloaded
 [void][system.reflection.Assembly]::LoadFrom("C:\Program Files\MySQL\MySQL Connector Net 6.0.2\Assemblies\MySQL.Data.dll")
@@ -43,7 +43,7 @@ echo $mysqltest
 #####################################################################################################
 #####################################################################################################
 
-Benutzer aus der Datenabnk auslesen und im AD anlegen
+Benutzer aus der Datenabnk auslesen und im AD anlegen (Beispiel)
 
 #####################################################################################################
 #####################################################################################################
