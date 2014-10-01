@@ -1,0 +1,1 @@
+Connect to MYSQL database from Powershell: http://mark.primaryblogger.co.uk/powershell/connect-to-mysql-database-from-powershell/
